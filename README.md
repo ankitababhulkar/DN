@@ -1,4 +1,9 @@
-# Akshay Nadji Maharaj Harne - Spiritual Discourse Website
+# Deepanshu Narnauli
+
+Professional Counselor & Mental Health Expert
+
+Providing compassionate and effective counseling services across India.
+Specializing in anxiety, depression, relationship issues, and personal growth through personalized call and video sessions.
 
 A beautiful, responsive one-page website showcasing the spiritual teachings and discourses of Akshay Nadji Maharaj Harne.
 
